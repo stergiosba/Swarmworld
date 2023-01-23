@@ -1,0 +1,5 @@
+---
+  simulator:
+    final_time: 100
+    accuracy: 5 # Power of 2.
+...
